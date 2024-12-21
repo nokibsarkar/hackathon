@@ -1,0 +1,8 @@
+fastapi
+sqlmodel
+python-dotenv
+uvicorn
+pytest
+httpx
+pytest-cov
+google-generativeai

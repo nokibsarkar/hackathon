@@ -1,0 +1,9 @@
+1. Recipe-meatball:
+process: Mix ingredients and cook.
+ingredients: oil, salt, beef, garlic
+
+2. Recipe-fish cutlet:
+process: Prepare fish and fry.
+ingredients: oil, salt, fish, breadcrumbs
+
+3. Recipe-sweet:
